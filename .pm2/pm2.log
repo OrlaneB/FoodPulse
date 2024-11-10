@@ -1,0 +1,1020 @@
+2024-11-09T14:44:49: PM2 log: ===============================================================================
+2024-11-09T14:44:49: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2024-11-09T14:44:49: PM2 log: Time                 : Sat Nov 09 2024 14:44:49 GMT+0000 (Coordinated Universal Time)
+2024-11-09T14:44:49: PM2 log: PM2 version          : 5.4.2
+2024-11-09T14:44:49: PM2 log: Node.js version      : 18.19.1
+2024-11-09T14:44:49: PM2 log: Current arch         : x64
+2024-11-09T14:44:49: PM2 log: PM2 home             : /home/ubuntu/.pm2
+2024-11-09T14:44:49: PM2 log: PM2 PID file         : /home/ubuntu/.pm2/pm2.pid
+2024-11-09T14:44:49: PM2 log: RPC socket file      : /home/ubuntu/.pm2/rpc.sock
+2024-11-09T14:44:49: PM2 log: BUS socket file      : /home/ubuntu/.pm2/pub.sock
+2024-11-09T14:44:49: PM2 log: Application log path : /home/ubuntu/.pm2/logs
+2024-11-09T14:44:49: PM2 log: Worker Interval      : 30000
+2024-11-09T14:44:49: PM2 log: Process dump file    : /home/ubuntu/.pm2/dump.pm2
+2024-11-09T14:44:49: PM2 log: Concurrent actions   : 2
+2024-11-09T14:44:49: PM2 log: SIGTERM timeout      : 1600
+2024-11-09T14:44:49: PM2 log: ===============================================================================
+2024-11-09T14:44:49: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T14:44:49: PM2 log: App [foodpulse:0] online
+2024-11-09T14:54:10: PM2 log: App [foodpulse:1] starting in -fork mode-
+2024-11-09T14:54:10: PM2 log: App [foodpulse:1] online
+2024-11-09T15:43:03: PM2 log: Stopping app:foodpulse id:0
+2024-11-09T15:43:03: PM2 log: App [foodpulse:0] exited with code [0] via signal [SIGINT]
+2024-11-09T15:43:03: PM2 log: pid=7872 msg=process killed
+2024-11-09T15:43:03: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T15:43:03: PM2 log: App [foodpulse:0] online
+2024-11-09T15:43:03: PM2 log: Stopping app:foodpulse id:1
+2024-11-09T15:43:03: PM2 log: App [foodpulse:1] exited with code [0] via signal [SIGINT]
+2024-11-09T15:43:03: PM2 log: pid=7957 msg=process killed
+2024-11-09T15:43:03: PM2 log: App [foodpulse:1] starting in -fork mode-
+2024-11-09T15:43:03: PM2 log: App [foodpulse:1] online
+2024-11-09T15:52:37: PM2 log: Stopping app:foodpulse id:0
+2024-11-09T15:52:37: PM2 log: App [foodpulse:0] exited with code [0] via signal [SIGINT]
+2024-11-09T15:52:37: PM2 log: pid=8436 msg=process killed
+2024-11-09T15:52:37: PM2 log: Stopping app:foodpulse id:1
+2024-11-09T15:52:37: PM2 log: App [foodpulse:1] exited with code [0] via signal [SIGINT]
+2024-11-09T15:52:37: PM2 log: pid=8449 msg=process killed
+2024-11-09T16:03:45: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:03:45: PM2 log: App [foodpulse:2] online
+2024-11-09T16:14:31: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:14:31: PM2 log: App [foodpulse:1] starting in -fork mode-
+2024-11-09T16:14:31: PM2 log: App [foodpulse:0] online
+2024-11-09T16:14:31: PM2 log: App [foodpulse:1] online
+2024-11-09T16:14:31: PM2 log: Stopping app:foodpulse id:2
+2024-11-09T16:14:32: PM2 log: App [foodpulse:2] exited with code [0] via signal [SIGINT]
+2024-11-09T16:14:32: PM2 log: pid=8621 msg=process killed
+2024-11-09T16:14:32: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:14:32: PM2 log: App [foodpulse:2] online
+2024-11-09T16:14:34: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:14:34: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:14:34: PM2 log: App [foodpulse:2] online
+2024-11-09T16:14:37: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:14:37: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:14:37: PM2 log: App [foodpulse:2] online
+2024-11-09T16:14:39: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:14:39: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:14:39: PM2 log: App [foodpulse:2] online
+2024-11-09T16:14:40: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:14:40: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:14:40: PM2 log: App [foodpulse:2] online
+2024-11-09T16:14:41: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:14:41: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:14:41: PM2 log: App [foodpulse:2] online
+2024-11-09T16:14:42: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:14:42: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:14:42: PM2 log: App [foodpulse:2] online
+2024-11-09T16:14:43: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:14:43: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:14:43: PM2 log: App [foodpulse:2] online
+2024-11-09T16:14:44: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:14:44: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:14:44: PM2 log: App [foodpulse:2] online
+2024-11-09T16:14:45: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:14:45: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:14:45: PM2 log: App [foodpulse:2] online
+2024-11-09T16:14:46: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:14:46: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:14:46: PM2 log: App [foodpulse:2] online
+2024-11-09T16:14:47: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:14:47: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:14:47: PM2 log: App [foodpulse:2] online
+2024-11-09T16:14:48: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:14:48: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:14:48: PM2 log: App [foodpulse:2] online
+2024-11-09T16:14:49: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:14:49: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:14:49: PM2 log: App [foodpulse:2] online
+2024-11-09T16:14:50: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:14:50: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:14:50: PM2 log: App [foodpulse:2] online
+2024-11-09T16:14:51: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:14:51: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:14:51: PM2 log: App [foodpulse:2] online
+2024-11-09T16:14:52: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:14:52: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:14:52: PM2 log: App [foodpulse:2] online
+2024-11-09T16:14:53: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:14:53: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:14:53: PM2 log: App [foodpulse:2] online
+2024-11-09T16:14:54: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:14:54: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:14:54: PM2 log: App [foodpulse:2] online
+2024-11-09T16:14:55: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:14:55: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:14:55: PM2 log: App [foodpulse:2] online
+2024-11-09T16:14:55: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:14:55: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:14:55: PM2 log: App [foodpulse:2] online
+2024-11-09T16:14:56: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:14:56: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:14:56: PM2 log: App [foodpulse:2] online
+2024-11-09T16:14:57: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:14:57: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:14:57: PM2 log: App [foodpulse:2] online
+2024-11-09T16:14:58: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:14:58: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:14:58: PM2 log: App [foodpulse:2] online
+2024-11-09T16:14:59: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:14:59: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:14:59: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:00: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:00: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:00: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:01: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:01: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:01: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:02: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:02: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:02: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:03: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:03: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:03: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:04: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:04: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:04: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:05: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:05: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:05: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:06: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:06: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:06: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:07: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:07: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:07: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:08: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:08: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:08: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:08: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:08: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:08: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:09: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:09: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:09: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:10: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:10: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:10: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:11: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:11: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:11: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:12: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:12: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:12: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:13: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:13: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:13: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:14: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:14: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:14: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:15: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:15: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:15: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:16: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:16: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:16: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:16: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:16: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:16: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:17: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:17: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:17: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:18: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:18: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:18: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:19: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:19: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:19: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:20: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:20: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:20: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:21: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:21: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:21: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:21: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:21: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:21: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:22: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:22: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:22: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:23: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:23: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:23: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:24: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:24: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:24: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:25: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:25: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:25: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:26: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:26: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:26: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:27: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:27: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:27: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:27: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:27: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:27: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:28: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:28: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:28: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:29: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:29: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:29: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:30: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:30: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:30: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:31: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:31: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:31: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:32: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:32: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:32: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:32: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:32: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:32: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:33: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:33: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:33: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:34: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:34: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:34: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:35: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:35: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:35: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:36: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:36: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:36: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:37: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:37: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:37: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:37: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:37: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:37: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:38: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:38: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:38: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:39: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:39: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:39: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:40: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:40: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:40: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:41: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:41: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:41: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:42: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:42: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:42: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:42: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:42: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:42: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:43: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:43: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:43: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:44: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:44: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:44: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:45: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:45: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:45: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:46: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:46: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:46: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:47: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:47: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:47: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:48: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:48: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:48: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:48: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:48: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:48: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:49: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:49: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:49: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:50: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:50: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:50: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:51: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:51: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:51: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:52: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:52: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:52: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:53: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:53: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:53: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:53: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:53: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:53: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:54: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:54: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:54: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:55: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:55: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:55: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:56: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:56: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:56: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:57: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:57: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:57: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:58: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:58: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:58: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:59: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:59: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:59: PM2 log: App [foodpulse:2] online
+2024-11-09T16:15:59: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:15:59: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:15:59: PM2 log: App [foodpulse:2] online
+2024-11-09T16:16:00: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:16:00: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:16:00: PM2 log: App [foodpulse:2] online
+2024-11-09T16:16:01: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:16:01: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:16:01: PM2 log: App [foodpulse:2] online
+2024-11-09T16:16:02: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:16:02: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:16:02: PM2 log: App [foodpulse:2] online
+2024-11-09T16:16:03: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:16:03: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:16:03: PM2 log: App [foodpulse:2] online
+2024-11-09T16:16:04: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:16:04: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:16:04: PM2 log: App [foodpulse:2] online
+2024-11-09T16:16:04: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:16:04: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:16:04: PM2 log: App [foodpulse:2] online
+2024-11-09T16:16:05: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:16:05: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:16:05: PM2 log: App [foodpulse:2] online
+2024-11-09T16:16:06: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:16:06: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:16:06: PM2 log: App [foodpulse:2] online
+2024-11-09T16:16:07: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:16:07: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:16:07: PM2 log: App [foodpulse:2] online
+2024-11-09T16:16:08: PM2 log: App [foodpulse:2] exited with code [1] via signal [SIGINT]
+2024-11-09T16:16:08: PM2 log: App [foodpulse:2] starting in -fork mode-
+2024-11-09T16:16:08: PM2 log: App [foodpulse:2] online
+2024-11-09T16:16:08: PM2 log: Stopping app:foodpulse id:0
+2024-11-09T16:16:08: PM2 log: Stopping app:foodpulse id:1
+2024-11-09T16:16:09: PM2 log: App [foodpulse:1] exited with code [0] via signal [SIGINT]
+2024-11-09T16:16:09: PM2 log: App [foodpulse:0] exited with code [0] via signal [SIGINT]
+2024-11-09T16:16:09: PM2 log: pid=8672 msg=process killed
+2024-11-09T16:16:09: PM2 log: Stopping app:foodpulse id:2
+2024-11-09T16:16:09: PM2 log: pid=8671 msg=process killed
+2024-11-09T16:16:09: PM2 log: App [foodpulse:2] exited with code [0] via signal [SIGINT]
+2024-11-09T16:16:09: PM2 error: Cancelling versioning data parsing
+2024-11-09T16:16:09: PM2 log: pid=10232 msg=process killed
+2024-11-09T16:16:20: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:16:20: PM2 log: App [foodpulse:0] online
+2024-11-09T16:16:21: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:16:21: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:16:21: PM2 log: App [foodpulse:0] online
+2024-11-09T16:16:22: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:16:22: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:16:22: PM2 log: App [foodpulse:0] online
+2024-11-09T16:16:23: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:16:23: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:16:23: PM2 log: App [foodpulse:0] online
+2024-11-09T16:16:24: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:16:24: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:16:24: PM2 log: App [foodpulse:0] online
+2024-11-09T16:16:25: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:16:25: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:16:25: PM2 log: App [foodpulse:0] online
+2024-11-09T16:16:26: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:16:26: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:16:26: PM2 log: App [foodpulse:0] online
+2024-11-09T16:16:27: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:16:27: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:16:27: PM2 log: App [foodpulse:0] online
+2024-11-09T16:16:28: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:16:28: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:16:28: PM2 log: App [foodpulse:0] online
+2024-11-09T16:16:29: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:16:29: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:16:29: PM2 log: App [foodpulse:0] online
+2024-11-09T16:16:29: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:16:29: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:16:29: PM2 log: App [foodpulse:0] online
+2024-11-09T16:16:30: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:16:30: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:16:30: PM2 log: App [foodpulse:0] online
+2024-11-09T16:16:31: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:16:31: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:16:31: PM2 log: App [foodpulse:0] online
+2024-11-09T16:16:32: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:16:32: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:16:32: PM2 log: App [foodpulse:0] online
+2024-11-09T16:16:33: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:16:33: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:16:33: PM2 log: App [foodpulse:0] online
+2024-11-09T16:16:34: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:16:34: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:16:34: PM2 log: App [foodpulse:0] online
+2024-11-09T16:16:35: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:16:35: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:16:35: PM2 log: App [foodpulse:0] online
+2024-11-09T16:16:35: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:16:35: PM2 log: Script /home/ubuntu/food-tracker-fullstack/bin/www had too many unstable restarts (16). Stopped. "errored"
+2024-11-09T16:22:38: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:22:38: PM2 log: App [foodpulse:0] online
+2024-11-09T16:22:39: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:22:39: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:22:39: PM2 log: App [foodpulse:0] online
+2024-11-09T16:22:40: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:22:40: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:22:40: PM2 log: App [foodpulse:0] online
+2024-11-09T16:22:41: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:22:41: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:22:41: PM2 log: App [foodpulse:0] online
+2024-11-09T16:22:42: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:22:42: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:22:42: PM2 log: App [foodpulse:0] online
+2024-11-09T16:22:42: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:22:42: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:22:42: PM2 log: App [foodpulse:0] online
+2024-11-09T16:22:43: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:22:43: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:22:43: PM2 log: App [foodpulse:0] online
+2024-11-09T16:22:44: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:22:44: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:22:44: PM2 log: App [foodpulse:0] online
+2024-11-09T16:22:45: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:22:45: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:22:45: PM2 log: App [foodpulse:0] online
+2024-11-09T16:22:46: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:22:46: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:22:46: PM2 log: App [foodpulse:0] online
+2024-11-09T16:22:47: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:22:47: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:22:47: PM2 log: App [foodpulse:0] online
+2024-11-09T16:22:47: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:22:47: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:22:47: PM2 log: App [foodpulse:0] online
+2024-11-09T16:22:48: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:22:48: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:22:48: PM2 log: App [foodpulse:0] online
+2024-11-09T16:22:49: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:22:49: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:22:49: PM2 log: App [foodpulse:0] online
+2024-11-09T16:22:50: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:22:50: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:22:50: PM2 log: App [foodpulse:0] online
+2024-11-09T16:22:51: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:22:51: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:22:51: PM2 log: App [foodpulse:0] online
+2024-11-09T16:22:52: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:22:52: PM2 log: Script /home/ubuntu/food-tracker-fullstack/bin/www had too many unstable restarts (16). Stopped. "errored"
+2024-11-09T16:30:05: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:30:05: PM2 log: App [foodpulse:0] online
+2024-11-09T16:30:06: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:30:06: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:30:06: PM2 log: App [foodpulse:0] online
+2024-11-09T16:30:07: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:30:07: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:30:07: PM2 log: App [foodpulse:0] online
+2024-11-09T16:30:07: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:30:07: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:30:07: PM2 log: App [foodpulse:0] online
+2024-11-09T16:30:08: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:30:08: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:30:08: PM2 log: App [foodpulse:0] online
+2024-11-09T16:30:09: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:30:09: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:30:09: PM2 log: App [foodpulse:0] online
+2024-11-09T16:30:10: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:30:10: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:30:10: PM2 log: App [foodpulse:0] online
+2024-11-09T16:30:11: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:30:11: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:30:11: PM2 log: App [foodpulse:0] online
+2024-11-09T16:30:12: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:30:12: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:30:12: PM2 log: App [foodpulse:0] online
+2024-11-09T16:30:13: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:30:13: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:30:13: PM2 log: App [foodpulse:0] online
+2024-11-09T16:30:13: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:30:13: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:30:13: PM2 log: App [foodpulse:0] online
+2024-11-09T16:30:14: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:30:14: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:30:14: PM2 log: App [foodpulse:0] online
+2024-11-09T16:30:15: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:30:15: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:30:15: PM2 log: App [foodpulse:0] online
+2024-11-09T16:30:16: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:30:16: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:30:16: PM2 log: App [foodpulse:0] online
+2024-11-09T16:30:17: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:30:17: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:30:17: PM2 log: App [foodpulse:0] online
+2024-11-09T16:30:18: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:30:18: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:30:18: PM2 log: App [foodpulse:0] online
+2024-11-09T16:30:19: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:30:19: PM2 log: Script /home/ubuntu/food-tracker-fullstack/bin/www had too many unstable restarts (16). Stopped. "errored"
+2024-11-09T16:46:56: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:46:56: PM2 log: App [foodpulse:0] online
+2024-11-09T16:46:57: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:46:57: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:46:57: PM2 log: App [foodpulse:0] online
+2024-11-09T16:46:58: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:46:58: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:46:58: PM2 log: App [foodpulse:0] online
+2024-11-09T16:46:59: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:46:59: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:46:59: PM2 log: App [foodpulse:0] online
+2024-11-09T16:47:00: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:47:00: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:47:00: PM2 log: App [foodpulse:0] online
+2024-11-09T16:47:01: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:47:01: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:47:01: PM2 log: App [foodpulse:0] online
+2024-11-09T16:47:01: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:47:01: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:47:01: PM2 log: App [foodpulse:0] online
+2024-11-09T16:47:02: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:47:02: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:47:02: PM2 log: App [foodpulse:0] online
+2024-11-09T16:47:03: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:47:03: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:47:03: PM2 log: App [foodpulse:0] online
+2024-11-09T16:47:04: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:47:04: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:47:04: PM2 log: App [foodpulse:0] online
+2024-11-09T16:47:05: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:47:05: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:47:05: PM2 log: App [foodpulse:0] online
+2024-11-09T16:47:06: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:47:06: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:47:06: PM2 log: App [foodpulse:0] online
+2024-11-09T16:47:06: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:47:06: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:47:06: PM2 log: App [foodpulse:0] online
+2024-11-09T16:47:07: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:47:07: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:47:07: PM2 log: App [foodpulse:0] online
+2024-11-09T16:47:08: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:47:08: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:47:08: PM2 log: App [foodpulse:0] online
+2024-11-09T16:47:09: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:47:09: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:47:09: PM2 log: App [foodpulse:0] online
+2024-11-09T16:47:10: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:47:10: PM2 log: Script /home/ubuntu/food-tracker-fullstack/bin/www had too many unstable restarts (16). Stopped. "errored"
+2024-11-09T16:50:29: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:50:29: PM2 log: App [foodpulse:0] online
+2024-11-09T16:50:30: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:50:30: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:50:30: PM2 log: App [foodpulse:0] online
+2024-11-09T16:50:31: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:50:31: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:50:31: PM2 log: App [foodpulse:0] online
+2024-11-09T16:50:31: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:50:31: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:50:31: PM2 log: App [foodpulse:0] online
+2024-11-09T16:50:32: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:50:32: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:50:32: PM2 log: App [foodpulse:0] online
+2024-11-09T16:50:33: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:50:33: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:50:33: PM2 log: App [foodpulse:0] online
+2024-11-09T16:50:34: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:50:34: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:50:34: PM2 log: App [foodpulse:0] online
+2024-11-09T16:50:35: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:50:35: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:50:35: PM2 log: App [foodpulse:0] online
+2024-11-09T16:50:36: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:50:36: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:50:36: PM2 log: App [foodpulse:0] online
+2024-11-09T16:50:37: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:50:37: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:50:37: PM2 log: App [foodpulse:0] online
+2024-11-09T16:50:38: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:50:38: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:50:38: PM2 log: App [foodpulse:0] online
+2024-11-09T16:50:38: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:50:38: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:50:38: PM2 log: App [foodpulse:0] online
+2024-11-09T16:50:39: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:50:39: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:50:39: PM2 log: App [foodpulse:0] online
+2024-11-09T16:50:40: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:50:40: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:50:40: PM2 log: App [foodpulse:0] online
+2024-11-09T16:50:41: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:50:41: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:50:41: PM2 log: App [foodpulse:0] online
+2024-11-09T16:50:42: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:50:42: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:50:42: PM2 log: App [foodpulse:0] online
+2024-11-09T16:50:43: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:50:43: PM2 log: Script /home/ubuntu/food-tracker-fullstack/bin/www had too many unstable restarts (16). Stopped. "errored"
+2024-11-09T16:57:52: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:57:52: PM2 log: App [foodpulse:0] online
+2024-11-09T16:57:53: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:57:53: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:57:53: PM2 log: App [foodpulse:0] online
+2024-11-09T16:57:54: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:57:54: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:57:54: PM2 log: App [foodpulse:0] online
+2024-11-09T16:57:55: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:57:55: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:57:55: PM2 log: App [foodpulse:0] online
+2024-11-09T16:57:56: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:57:56: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:57:56: PM2 log: App [foodpulse:0] online
+2024-11-09T16:57:57: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:57:57: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:57:57: PM2 log: App [foodpulse:0] online
+2024-11-09T16:57:58: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:57:58: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:57:58: PM2 log: App [foodpulse:0] online
+2024-11-09T16:57:59: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:57:59: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:57:59: PM2 log: App [foodpulse:0] online
+2024-11-09T16:58:00: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:58:00: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:58:00: PM2 log: App [foodpulse:0] online
+2024-11-09T16:58:00: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:58:00: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:58:00: PM2 log: App [foodpulse:0] online
+2024-11-09T16:58:01: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:58:01: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:58:01: PM2 log: App [foodpulse:0] online
+2024-11-09T16:58:02: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:58:02: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:58:02: PM2 log: App [foodpulse:0] online
+2024-11-09T16:58:03: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:58:03: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:58:03: PM2 log: App [foodpulse:0] online
+2024-11-09T16:58:04: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:58:04: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:58:04: PM2 log: App [foodpulse:0] online
+2024-11-09T16:58:05: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:58:05: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:58:05: PM2 log: App [foodpulse:0] online
+2024-11-09T16:58:06: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:58:06: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:58:06: PM2 log: App [foodpulse:0] online
+2024-11-09T16:58:07: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:58:07: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T16:58:07: PM2 log: App [foodpulse:0] online
+2024-11-09T16:58:08: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T16:58:08: PM2 log: Script /home/ubuntu/food-tracker-fullstack/bin/www had too many unstable restarts (16). Stopped. "errored"
+2024-11-09T17:00:14: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:14: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:15: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:15: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:15: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:16: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:16: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:16: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:17: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:17: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:17: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:18: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:18: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:18: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:19: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:19: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:19: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:20: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:20: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:20: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:21: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:21: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:21: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:22: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:22: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:22: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:23: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:23: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:23: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:24: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:24: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:24: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:24: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:24: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:24: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:25: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:25: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:25: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:26: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:26: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:26: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:27: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:27: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:27: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:28: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:28: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:28: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:29: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:29: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:29: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:30: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:30: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:30: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:30: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:30: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:30: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:31: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:31: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:31: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:32: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:32: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:32: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:33: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:33: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:33: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:34: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:34: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:34: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:35: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:35: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:35: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:35: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:35: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:35: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:36: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:36: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:36: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:37: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:37: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:37: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:38: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:38: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:38: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:39: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:39: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:39: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:40: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:40: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:40: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:41: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:41: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:41: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:41: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:41: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:41: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:42: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:42: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:42: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:43: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:43: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:43: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:44: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:44: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:44: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:45: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:45: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:45: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:46: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:46: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:46: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:46: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:46: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:46: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:47: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:47: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:47: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:48: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:48: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:48: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:49: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:49: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:49: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:50: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:50: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:50: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:51: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:51: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:51: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:52: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:52: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:52: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:52: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:52: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:53: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:53: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:53: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:53: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:54: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:54: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:54: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:55: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:55: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:55: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:56: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:56: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:56: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:57: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:57: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:57: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:58: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:58: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:58: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:59: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:59: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:59: PM2 log: App [foodpulse:0] online
+2024-11-09T17:00:59: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:00:59: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:00:59: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:00: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:00: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:00: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:01: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:01: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:01: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:02: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:02: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:02: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:03: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:03: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:03: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:04: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:04: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:04: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:05: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:05: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:05: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:07: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:07: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:07: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:09: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:09: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:09: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:10: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:10: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:10: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:10: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:10: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:11: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:11: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:11: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:11: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:12: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:12: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:12: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:13: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:13: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:13: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:14: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:14: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:14: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:15: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:15: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:15: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:16: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:16: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:16: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:16: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:16: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:16: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:17: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:17: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:17: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:18: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:18: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:18: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:19: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:19: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:19: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:20: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:20: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:20: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:21: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:21: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:21: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:21: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:21: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:21: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:22: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:22: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:22: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:23: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:23: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:23: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:24: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:24: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:24: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:25: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:25: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:25: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:26: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:26: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:26: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:27: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:27: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:27: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:27: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:27: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:27: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:28: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:28: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:28: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:29: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:29: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:29: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:30: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:30: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:30: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:31: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:31: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:31: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:32: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:32: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:32: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:32: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:32: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:32: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:33: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:33: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:33: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:34: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:34: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:34: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:35: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:35: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:35: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:36: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:36: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:36: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:37: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:37: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:37: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:37: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:37: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:37: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:38: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:38: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:38: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:39: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:39: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:39: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:40: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:40: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:40: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:41: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:41: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:41: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:42: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:42: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:42: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:43: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:43: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:43: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:43: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:43: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:43: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:44: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:44: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:44: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:45: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:45: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:45: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:46: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:46: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:46: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:47: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:47: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:47: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:48: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:48: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:48: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:48: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:48: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:48: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:49: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:49: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:49: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:50: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:50: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:50: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:51: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:51: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:51: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:52: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:52: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:52: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:53: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:53: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:53: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:54: PM2 log: App [foodpulse:0] exited with code [1] via signal [SIGINT]
+2024-11-09T17:01:54: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:54: PM2 log: App [foodpulse:0] online
+2024-11-09T17:01:59: PM2 log: Stopping app:foodpulse id:0
+2024-11-09T17:01:59: PM2 log: App [foodpulse:0] exited with code [0] via signal [SIGINT]
+2024-11-09T17:01:59: PM2 log: pid=14360 msg=process killed
+2024-11-09T17:01:59: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-09T17:01:59: PM2 log: App [foodpulse:0] online
+2024-11-10T09:19:00: PM2 log: Stopping app:foodpulse id:0
+2024-11-10T09:19:00: PM2 log: App [foodpulse:0] exited with code [0] via signal [SIGINT]
+2024-11-10T09:19:00: PM2 log: pid=14390 msg=process killed
+2024-11-10T09:19:00: PM2 log: App [foodpulse:0] starting in -fork mode-
+2024-11-10T09:19:00: PM2 log: App [foodpulse:0] online
